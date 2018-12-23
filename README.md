@@ -1,2 +1,2 @@
-# group-data-competition
-for my data competition group
+# kaggle-data-competition
+prompt [here](https://www.kaggle.com/c/GiveMeSomeCredit), results here!
